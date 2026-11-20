@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm a Developer 👋
 
-<!--
-**282240/282240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Code. Build. Explore. Repeat.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Full-stack Developer | Frontend & Go
+- 🚀 Passionate about building useful and interesting things
+- 🤖 Exploring AI, LLMs, and Automation
+- 🛠️ Enjoy solving problems and creating developer tools
+- 🌱 Always learning, always improving
+
+### Tech Stack
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=ts,js,go,python,html,css)
+
+### GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=282240&layout=compact&theme=tokyonight&hide_border=true)
+
+### Current Focus
+
+```text
+Frontend Engineering  ████████████████████
+Go Backend             ███████████████░░░░░
+AI & Automation        █████████████████░░░
+Open Source            ███████████░░░░░░░░░
+```
+
+---
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication."</i>
+</p>
+
+<p align="center">
+  Thanks for visiting! ⭐
+</p>
